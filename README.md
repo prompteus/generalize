@@ -2,7 +2,7 @@
 
 ```shell
 git clone ...
-cd reasoning
+cd generalize
 uv sync
 source .venv/bin/activate
 pre-commit install
